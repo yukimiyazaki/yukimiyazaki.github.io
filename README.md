@@ -1,6 +1,9 @@
 # Yuki Miyazaki
+
 ## What's new
 - Publication (Book) December 2019: 私にとっての“Choosing Wisely” 医学生・研修医・若手医師の“モヤモヤ”から
+- Award (Onsight programming) August 2019: President's Award @Atmacup
+https://atma.connpass.com/event/138332/
 
 ### Work experience
 - April 2019 - Present: Junior resident
@@ -11,7 +14,7 @@
 - April 2011 - March 2013: Bachelor's degree, Department of Applied Physics, School of Engineering, the University of Tokyo, Tokyo, Japan
 - April 2009 - March 2011: College of Arts and Science, the University of Tokyo, Tokyo, Japan
  
-### Publications
+### Publication
 Yuki Miyazaki, Takahiro Tabuchi
 "Educational gradients in the use of electronic cigarettes including heat-not-burn tobacco products in Japan". Plos One 2018;13:e0191008.doi:10.1371/journal.pone.0191008
 http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0191008
@@ -25,12 +28,12 @@ http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0191008
 ### Awards
 - The Japan Research Institute Award
 NASA Space Apps Challenge Osaka 2017 (Hackathon)
+https://spaceappschallenge.space/home/
 
 - 3rd Annual MOLBOT Award
 Team UT-Komaba, BIOMOD 2013 (Annual biomolecular design competition at Harvard University)
 http://biomod.net/winners/2013.html
  
-- The University of Tokyo President's Awards
+- The University of Tokyo President's Award
 The University of Tokyo Taido Club, 2013 (Japanese martial arts club)
 https://www.u-tokyo.ac.jp/content/400010080.pdf
-
