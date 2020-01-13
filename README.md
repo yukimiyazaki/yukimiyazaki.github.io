@@ -23,10 +23,10 @@ http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0191008
 (This was also published in Japanese newspapers)
  
 ### Poster presentations
-- ”Educational gradients in the use of electronic cigarettes including heat-not-burn tobacco products in Japan”, June 2017, Society for Epidemiologic Research 50th Anniversary Meeting, Seattle, United States
- 
 - ”A case of polycystic kidney with progressive refractory heart failure in old age and pkd 1 frame shift mutation was identified”, April 2018, Japanese Medical Society of Internal Medicine
- 
+
+- ”Educational gradients in the use of electronic cigarettes including heat-not-burn tobacco products in Japan”, June 2017, Society for Epidemiologic Research 50th Anniversary Meeting, Seattle, United States
+
 ### Awards
 - The Japan Research Institute Award
 NASA Space Apps Challenge Osaka 2017 (Hackathon)
