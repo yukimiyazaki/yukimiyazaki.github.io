@@ -15,6 +15,7 @@ https://atma.connpass.com/event/138332/
 - April 2009 - March 2011: College of Arts and Science, the University of Tokyo, Tokyo, Japan
  
 ### Publication
+https://scholar.google.co.jp/citations?user=Zz1AoQ0AAAAJ
 Yuki Miyazaki, Takahiro Tabuchi
 "Educational gradients in the use of electronic cigarettes including heat-not-burn tobacco products in Japan". Plos One 2018;13:e0191008.doi:10.1371/journal.pone.0191008
 http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0191008
