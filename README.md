@@ -1,12 +1,7 @@
-# yukimiyazaki.github.io
-
-## portfolio
-
-## what's new
+# Yuki Miyazaki
+## What's new
 # 
 
-Yuki Miyazaki
- 
 ### Education
 ・September 2014 – March 2019: Medical School, Osaka University, Osaka, Japan
 ・April 2013 – August 2014: Department of Applied Physics, Graduate School of Engineering, the University of Tokyo, Tokyo, Japan
@@ -24,7 +19,7 @@ http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0191008
  
 ・”A case of polycystic kidney with progressive refractory heart failure in old age and pkd 1 frame shift mutation was identified”, April 2018, Japanese Medical Society of Internal Medicine
  
-###Awards
+### Awards
 ・3rd Annual MOLBOT Award
 Team UT-Komaba, BIOMOD 2013 (annual biomolecular design competition at Harvard University)
 http://biomod.net/winners/2013.html
