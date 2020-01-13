@@ -1,7 +1,7 @@
 # Yuki Miyazaki
 ## What's new
-# Publication (Book)
-# December 2019: 私にとっての“Choosing Wisely” 医学生・研修医・若手医師の“モヤモヤ”から
+### Publication (Book)
+### December 2019: 私にとっての“Choosing Wisely” 医学生・研修医・若手医師の“モヤモヤ”から
 
 ### Work experience
 - April 2019 - Present: Junior resident
