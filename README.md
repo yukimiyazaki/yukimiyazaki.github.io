@@ -16,6 +16,7 @@ https://atma.connpass.com/event/138332/
  
 ### Publication
 https://scholar.google.co.jp/citations?user=Zz1AoQ0AAAAJ
+- Public health 公衆衛生
 Yuki Miyazaki, Takahiro Tabuchi
 "Educational gradients in the use of electronic cigarettes including heat-not-burn tobacco products in Japan". Plos One 2018;13:e0191008.doi:10.1371/journal.pone.0191008
 http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0191008
@@ -38,3 +39,8 @@ http://biomod.net/winners/2013.html
 - The University of Tokyo President's Award
 The University of Tokyo Taido Club, 2013 (Japanese martial arts club)
 https://www.u-tokyo.ac.jp/content/400010080.pdf
+
+### Activities
+- programming (ou-med python club 阪医python会 http://pythonoum.wordpress.com/)
+- bouldering (初段, V7, climbing 阪大山岳部 http://ut-taido.com/)
+- martial arts (初段, black belt, Taido 東大躰道部 http://ut-taido.com/)
