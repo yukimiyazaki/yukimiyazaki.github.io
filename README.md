@@ -16,7 +16,7 @@ https://atma.connpass.com/event/138332/
  
 ### Publication
 https://scholar.google.co.jp/citations?user=Zz1AoQ0AAAAJ
-- Public health 公衆衛生
+- (Public health) 
 Yuki Miyazaki, Takahiro Tabuchi
 "Educational gradients in the use of electronic cigarettes including heat-not-burn tobacco products in Japan". Plos One 2018;13:e0191008.doi:10.1371/journal.pone.0191008
 http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0191008
@@ -28,19 +28,19 @@ http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0191008
 - ”Educational gradients in the use of electronic cigarettes including heat-not-burn tobacco products in Japan”, June 2017, Society for Epidemiologic Research 50th Anniversary Meeting, Seattle, United States
 
 ### Awards
-- The Japan Research Institute Award
+- The Japan Research Institute Award:
 NASA Space Apps Challenge Osaka 2017 (Hackathon)
 https://spaceappschallenge.space/home/
 
-- 3rd Annual MOLBOT Award
+- 3rd Annual MOLBOT Award:
 Team UT-Komaba, BIOMOD 2013 (Annual biomolecular design competition at Harvard University)
 http://biomod.net/winners/2013.html
  
-- The University of Tokyo President's Award
-The University of Tokyo Taido Club, 2013 (Japanese martial arts club)
+- The University of Tokyo President's Award:
+The University of Tokyo Taido Club, 2013
 https://www.u-tokyo.ac.jp/content/400010080.pdf
 
 ### Activities
-- programming (ou-med python club 阪医python会 http://pythonoum.wordpress.com/)
-- bouldering (初段, V7, climbing 阪大山岳部&中之島山岳部 http://nakanoshima-sangaku.jpn.org/)
-- martial arts (初段, black belt, Taido 東大躰道部 http://ut-taido.com/)
+- programming: (ou-med python club 阪医python会 http://pythonoum.wordpress.com/)
+- bouldering&climbing: 初段, V7 (阪大山岳部&中之島山岳部 http://nakanoshima-sangaku.jpn.org/)
+- martial arts: Taido, 初段, black belt (東大躰道部 http://ut-taido.com/)
