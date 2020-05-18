@@ -8,9 +8,10 @@ https://atma.connpass.com/event/138332/
 ### Work experience
 - April 2019 - Present: Junior resident
 
-- April 2019 - Present: Specially Appointed Researcher @Osaka University
-- 2015 - 2019: Research assistant @Osaka University
-- January 2018 - March 2018: Visiting Researcher @University of Melbourne 
+- April 2019 - Present: Specially Appointed Researcher @Osaka University 
+- 2015 - 2019: Research Assistant @Osaka University 
+- January 2018 - March 2018: Visiting Researcher @the University of Melbourne 
+- 2013: Teaching Assistant @the University of Tokyo
 
 ### Education
 - September 2014 - March 2019: Medical School, Osaka University, Osaka, Japan
