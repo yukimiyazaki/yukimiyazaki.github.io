@@ -46,6 +46,6 @@ The University of Tokyo Taido Club, 2013
 https://www.u-tokyo.ac.jp/content/400010080.pdf
 
 ### Activities
-- programming: (ou-med python club 阪医python会 http://pythonoum.wordpress.com/)
+- programming: (ou-med python party 阪医python会 http://pythonoum.wordpress.com/)
 - bouldering&climbing: 初段, V7 (阪大山岳部&中之島山岳部 http://nakanoshima-sangaku.jpn.org/)
 - martial arts: Taido, 初段, black belt (東大躰道部 http://ut-taido.com/)
