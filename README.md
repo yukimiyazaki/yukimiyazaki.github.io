@@ -1,7 +1,7 @@
 # Yuki Miyazaki, M.D.
 
 ## What's new
-- Activity 2020: FoundX Fellows Program @Startup Inception Program of The University of Tokyo https://foundx.jp
+- Activity (Startup School) 2020: FoundX Fellows Program @Startup Inception Program of The University of Tokyo https://foundx.jp
 - Publication (Book) December 2019: 私にとっての“Choosing Wisely” 医学生・研修医・若手医師の“モヤモヤ”から
 - Award (Onsight programming) August 2019: President's Award @Atmacup
 https://atma.connpass.com/event/138332/
